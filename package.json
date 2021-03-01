@@ -1,0 +1,22 @@
+{
+  "name": "nodehcode",
+  "version": "1.0.0",
+  "description": "Curso Nodejs Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eguilhermeleite/Curso-Udemy-de-Nodejs.git"
+  },
+  "author": "Edvaldo Leite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eguilhermeleite/Curso-Udemy-de-Nodejs/issues"
+  },
+  "homepage": "https://github.com/eguilhermeleite/Curso-Udemy-de-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
